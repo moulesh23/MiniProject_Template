@@ -1,4 +1,4 @@
-#include "test_factorial.h"
+#include "test_check.h"
 
 int main(void)
 {
